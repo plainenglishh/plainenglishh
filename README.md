@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/784639042888269855/954236672697040936/basil-omori.gif" width="300"/>
+<img src="https://cdn.discordapp.com/attachments/784639042888269855/954236672697040936/basil-omori.gif" width="300"/><br/><br/>
+https://linktr.ee/plainenglishh
 </p>
 
 ## About Me😄
