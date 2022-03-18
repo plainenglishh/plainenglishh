@@ -1,4 +1,6 @@
-### Hi there 👋
+### About Me
+
+Full-Stack Hobbyist Software Developer with experience using the Roblox platform and API. You can contact me on discord at Plain English#0001 😄
 
 <!--
 **plainenglishh/plainenglishh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
