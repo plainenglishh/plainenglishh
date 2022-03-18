@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/784639042888269855/954236672697040936/basil-omori.gif" width="300"/>
+</p>
+
 ## About Me😄
 
 Full-Stack Hobbyist Software Developer, UX/UI Designer and Project Manager with experience using the Roblox platform and API. I also have minor-moderate experience in security, expecially on the Roblox platform.
