@@ -1,19 +1,19 @@
-### About Me
+## About Me😄
 
-Full-Stack Hobbyist Software Developer with experience using the Roblox platform and API. You can contact me on discord at Plain English#0001 😄
+Full-Stack Hobbyist Software Developer, UX/UI Designer and Project Manager with experience using the Roblox platform and API. I also have minor-moderate experience in security, expecially on the Roblox platform.
 
-<!--
-**plainenglishh/plainenglishh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can contact me on discord at Plain English#0001!
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a licenced Foundation-grade Amateur Radio operator (M7MPE) and I find interest in all things infrastructure, logistics and military.
 
+## Projects
+
+- **Naval Warfare Remastered:** The official remake of Naval Warfare, a game on the Roblox platform.
+- **Armored Patrol Emergency Lighting System:** A mod for the roblox game 'Armored Patrol 2' and 'Armored Patrol v9.5' which introduces emergency vehicles into the game.
+- **Extended Command Bar:** A simple command bar library for debugging and development on the Roblox platform.
+
+## Certifications
+
+- **Foundation Level Amateur Radio Examination:** Radio Society of Great Britain
