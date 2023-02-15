@@ -1,12 +1,10 @@
-<svg width="500" height="300" style="border:1px red solid">
-  <foreignobject class="node" x="46" y="22" width="100" height="100"> 
-    <div style="border: 1px solid #130F1D">
-      <div style="min-width: 220px; height: auto; width: auto; border: 2px solid #FFF; background: black; padding-right: 10px; color:white; padding-left: 10px; padding-top: 5px; padding-bottom: 25px;"
-           <span style="font-family:Coming Soon; font-size: 22px; line-height: 95%">
-              SUNNY... don't worry.<br> Everything is going to be okay.
-      </span>
-      <br>
-        <div class="floatright">
-   <img alt="Textbox Hand.png" src="https://static.wikia.nocookie.net/omori/images/f/fe/Textbox_Hand.png/revision/latest/scale-to-width-down/20?cb=20220313233826&amp;format=original" decoding="async" loading="lazy" width="20" height="10" data-image-name="Textbox Hand.png" data-image-key="Textbox_Hand.png" data-src="https://static.wikia.nocookie.net/omori/images/f/fe/Textbox_Hand.png/revision/latest/scale-to-width-down/20?cb=20220313233826" class=" lazyloaded"></div></div></div>   
-  </foreignobject>
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Common use case: embed HTML text into SVG -->
+  <foreignObject x="20" y="20" width="160" height="160">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis mollis
+      mi ut ultricies. Nullam magna ipsum, porta vel dui convallis, rutrum
+      imperdiet eros. Aliquam erat volutpat.
+    </div>
+  </foreignObject>
 </svg>
