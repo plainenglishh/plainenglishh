@@ -9,7 +9,7 @@
 
 Hello, I'm a Full Stack Developer with skills in Systems architecture, Data analysis, Roblox development and Web development.
 
-I'm proficient with Lua(+U), Python, HTML / CSS, Javascript, etc. and I'm also a licenced Amateur Radio Operator with the callsign M7MPE.
+I'm proficient with Lua(+U), Python, HTML / CSS, Javascript, etc and I'm a licenced Amateur Radio Operator with the callsign M7MPE.
 
 #### Projects
 🚧 In Development | ✅ Active | 🛠 Maintaining | 💾 Archived | 🏢 Work for SI | 🧑 Personal Work
