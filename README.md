@@ -1,8 +1,5 @@
-## Hello, I'm plainenglish
+![image](https://user-images.githubusercontent.com/20248750/219106519-856b5534-c318-4b8e-9ab9-90dc2c5a8817.png)
 
-
-
-Full Stack Software Developer and and Systems architect from <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> <b>Lancashire, United Kingdom</b>.\
 <img src="https://cdn.discordapp.com/emojis/1064695871247237211.webp?size=96&quality=lossless" width="16"/> CEO @ Spearhead Industries
 
 #### You can contact me using the following methods, in order of preference:
