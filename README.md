@@ -39,5 +39,5 @@ I'm proficient with Lua(+U), Python, HTML / CSS, Javascript, etc. and I'm also a
 <hr/>
 
 <p align="center">
-  <img width="300" src="https://cdn.discordapp.com/attachments/1064284637632933890/1075470980174057523/Logo_Primary_Drab_Blue_Text.png">
+  <img width="250" src="https://cdn.discordapp.com/attachments/1064284637632933890/1075475353977507921/Logo_Pride_Text.png">
 </p>
