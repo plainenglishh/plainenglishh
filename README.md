@@ -1,7 +1,5 @@
 ![image](https://user-images.githubusercontent.com/20248750/219106519-856b5534-c318-4b8e-9ab9-90dc2c5a8817.png)
 
-<img src="https://cdn.discordapp.com/emojis/1064695871247237211.webp?size=96&quality=lossless" width="16"/> CEO @ Spearhead Industries
-
 #### You can contact me using the following methods, in order of preference:
 💬 Discord: Plain English#0001\
 📧 Email (Business): plainenglish@spearhead.industries\
@@ -35,8 +33,12 @@
 \- Ex - Developer @ The New German Empire\
 \- Ex - Developer @ World Conquest
 
-<hr/>
-
 #### Certifications
 
 - **Foundation Level Amateur Radio Examination:** Radio Society of Great Britain
+
+<hr/>
+
+<p align="center">
+  <img width="300" src="https://cdn.discordapp.com/attachments/1064284637632933890/1075470980174057523/Logo_Primary_Drab_Blue_Text.png">
+</p>
