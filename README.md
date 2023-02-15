@@ -5,8 +5,6 @@
 Full Stack Software Developer and and Systems architect from <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> <b>Lancashire, United Kingdom</b>.\
 <img src="https://cdn.discordapp.com/emojis/1064695871247237211.webp?size=96&quality=lossless" width="16"/> CEO @ Spearhead Industries
 
-<hr/>
-
 #### You can contact me using the following methods, in order of preference:
 💬 Discord: Plain English#0001\
 📧 Email (Business): plainenglish@spearhead.industries\
