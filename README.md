@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/20248750/219106519-856b5534-c318-4b8e-9ab9-90dc2c5a8817.png)
+![image](https://user-images.githubusercontent.com/20248750/219109351-f4a25bb4-ba15-4f5a-a678-4b52e6b5e96b.png)
 
 #### You can contact me using the following methods, in order of preference:
 💬 Discord: Plain English#0001\
