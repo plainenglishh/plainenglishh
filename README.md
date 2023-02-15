@@ -1,24 +1,47 @@
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/784639042888269855/954236672697040936/basil-omori.gif" width="300"/><br/><br/>
-https://linktr.ee/plainenglishh
-</p>
+## Hello, I'm plainenglish
 
-## About Me😄
 
-Full-Stack Hobbyist Software Developer, UX/UI Designer and Project Manager with experience using the Roblox platform and API. I also have minor-moderate experience in security, expecially on the Roblox platform.
 
-You can contact me on discord at Plain English#0001!
+Full Stack Software Developer and and Systems architect from <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> <b>Lancashire, United Kingdom</b>.\
+<img src="https://cdn.discordapp.com/emojis/1064695871247237211.webp?size=96&quality=lossless" width="16"/> CEO @ Spearhead Industries
 
-## Interests
+<hr/>
 
-I'm a licenced Foundation-grade Amateur Radio operator (M7MPE) and I find interest in all things infrastructure, logistics and military.
+#### You can contact me using the following methods, in order of preference:
+💬 Discord: Plain English#0001\
+📧 Email (Business): plainenglish@spearhead.industries\
+🎮 Roblox Messages: plainenglish\
+📧 Email (Personal): plain@plainenglish.xyz
 
-## Projects
+<hr/>
 
-- **Naval Warfare Remastered:** The official remake of Naval Warfare, a game on the Roblox platform.
-- **Armored Patrol Emergency Lighting System:** A mod for the roblox game 'Armored Patrol 2' and 'Armored Patrol v9.5' which introduces emergency vehicles into the game.
-- **Extended Command Bar:** A simple command bar library for debugging and development on the Roblox platform.
+#### Projects
+🚧 In Development | ✅ Active | 🛠 Maintaining | 💾 Archived | 🏢 Work for SI | 🧑 Personal Work
 
-## Certifications
+\- ✅🏢 [Naval Warfare Remastered](https://www.roblox.com/groups/6463427/Naval-Warfare-Remastered#!/about): The official remake of Naval Warfare on the [Roblox platform](https://corp.roblox.com/).
+
+\- 🚧🏢 SI Security Services: A security suite for Roblox engine games. Provides AI Powered & Conventional Anti-Cheat, Advanced Alt Detection & Threat Detecton and a optional SI Moderation as a Service integration.
+
+\- 🛠🧑 [Extended Command Bar](https://github.com/plainenglishh/Extended-Command-Bar): A simple command bar library for debugging and development on the Roblox platform.
+
+\- 💾🧑 [Local Public AP Radar](https://github.com/plainenglishh/Local-Public-Armored-Patrol-Radar): A programe that provides a user with a "Rader Screen" of his AP match.
+
+*A lot of projects are not listed here due to a variety of reasons not limited to; privacy/security concerns or private work for organisations. Commission work is also not listed.*
+
+<hr/>
+
+#### Work
+\- CEO @ Spearhead Industries\
+\- Developer @ United States Military 1960s\
+\- Developer @ Fierce Eagle Interactive
+
+\- Ex - Owner @ Armored Patrol Community\
+\- Ex - Admin System Developer @ Armored Patrol 9.5\
+\- Ex - Developer @ The New German Empire\
+\- Ex - Developer @ World Conquest
+
+<hr/>
+
+#### Certifications
 
 - **Foundation Level Amateur Radio Examination:** Radio Society of Great Britain
