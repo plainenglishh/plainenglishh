@@ -1,15 +1,9 @@
 ![image](https://user-images.githubusercontent.com/20248750/219109790-22b129e4-88eb-4f8b-8e3e-6be03ecc47a5.png)
 
-💬 Discord: Plain English#0001\
-📧 Email (Business): plainenglish@spearhead.industries\
-🎮 Roblox Messages: [@plainenglish](https://www.roblox.com/users/56098303/profile)\
-📧 Email (Personal): plain@plainenglish.xyz
+![stats](https://github-readme-stats.vercel.app/api?username=plainenglishh&show_icons=true&theme=gruvbox&hide_border=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plainenglishh&layout=compact&theme=gruvbox&count_private=true&hide_border=true&langs_count=10)
 
 <hr/>
-
-Hello, I'm a Full Stack Developer with skills in Systems architecture, Data analysis, Roblox development and Web development.
-
-I'm proficient with Lua(+U), Python, HTML / CSS, Javascript, etc and I'm a licenced Amateur Radio Operator with the callsign M7MPE.
 
 #### Projects
 🚧 In Development | ✅ Active | 🛠 Maintaining | 💾 Archived | 🏢 Work for SI | 🧑 Personal Work
