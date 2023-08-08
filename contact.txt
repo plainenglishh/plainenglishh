@@ -3,26 +3,4 @@ Roblox: @plainenglish
 Email: contact@plainenglish.xyz	
 Twitter: @plainenglishh
 Github: @plainenglishh
-
-Public PGP Key:
-===============
-
------BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: User-ID:	plainenglish <contact@plainenglish.xyz>
-Comment: Created:	29/06/2023 03:44
-Comment: Type:	255-bit EdDSA (secret key available)
-Comment: Usage:	Signing, Encryption, Certifying User-IDs, SSH Authentication
-Comment: Fingerprint:	35A59DC7B5C524F1926E53BEBCA973D7FAFADC8B
-
-
-mDMEZJzv9RYJKwYBBAHaRw8BAQdAjUPbgYBcSh7u1WUPrEypEy977/vfM7M6khWr
-QHe+eUi0J3BsYWluZW5nbGlzaCA8Y29udGFjdEBwbGFpbmVuZ2xpc2gueHl6PoiU
-BBMWCgA8FiEENaWdx7XFJPGSblO+vKlz1/r63IsFAmSc7/UCGyMFCwkIBwIDIgIB
-BhUKCQgLAgQWAgMBAh4HAheAAAoJELypc9f6+tyL9BcA/0gMsNTnOtn09h9K7tRO
-6Heo6+JbGm0PWaw2utpBZdEcAQDaDS2d+tLZZH1uLl/v2U03aZN7mhvvVd5vXyAb
-BsJhCbg4BGSc7/USCisGAQQBl1UBBQEBB0DYSrbCm4LucXCPAcjoYfb9ef8WnD+s
-0zZmVEseyqQCJAMBCAeIeAQYFgoAIBYhBDWlnce1xSTxkm5Tvrypc9f6+tyLBQJk
-nO/1AhsMAAoJELypc9f6+tyLSzAA/3vHDhFMosxnrZ4mzhI7mOxFq/MHbbR/aHu6
-9jxzkmv1AQDnaQKOWW2hgzZYEMiO+M1ZyySjUyIlaSo9wAK7w80QAA==
-=gqUR
------END PGP PUBLIC KEY BLOCK-----
+PGP: https://keys.openpgp.org/vks/v1/by-fingerprint/35A59DC7B5C524F1926E53BEBCA973D7FAFADC8B
