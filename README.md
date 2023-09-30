@@ -5,21 +5,6 @@
 
 <hr/>
 
-#### Projects
-🚧 In Development | ✅ Active | 🛠 Maintaining | 💾 Archived | 🏢 Work for SI | 🧑 Personal Work
-
-\- ✅🏢 [Naval Warfare Remastered](https://www.roblox.com/groups/6463427/Naval-Warfare-Remastered#!/about): The official remake of Naval Warfare on the [Roblox platform](https://corp.roblox.com/).
-
-\- 🚧🏢 SI Security Services: A security suite for Roblox engine games. Provides AI Powered & Conventional Anti-Cheat, Advanced Alt Detection & Threat Detecton and an optional SI Moderation as a Service integration.
-
-\- 🛠🧑 [Extended Command Bar](https://github.com/plainenglishh/Extended-Command-Bar): A simple command bar library for debugging and development on the Roblox platform.
-
-\- 💾🧑 [Local Public AP Radar](https://github.com/plainenglishh/Local-Public-Armored-Patrol-Radar): A programe that provides a user with a "Rader Screen" of his AP match.
-
-*A lot of projects are not listed here due to a variety of reasons not limited to; privacy/security concerns or private work for organisations. Commission work is also not listed.*
-
-<hr/>
-
 #### Work
 \- CEO @ Spearhead Industries\
 \- Developer @ United States Military 1960s\
